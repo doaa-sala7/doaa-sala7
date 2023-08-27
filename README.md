@@ -14,8 +14,9 @@ I am constantly expanding my knowledge and skills in AI and related fields. I ac
 💼 Experience
 Trainee at NTI: Currently undergoing training at NTI, where I am gaining valuable hands-on experience in AI and further honing my skills.
 📫 Let's Connect!
+![download](https://github.com/doaa-sala7/doaa-sala7/assets/61519327/294dd475-0112-418f-8a07-6ff76e5c74eb)(www.linkedin.com/in/doaa-salah-215a7a209)
 
-[![name](![download](https://github.com/doaa-sala7/doaa-sala7/assets/61519327/e5bafc55-50a2-41fb-90e0-660ace2a6556))](www.linkedin.com/in/doaa-salah-215a7a209)
+
 If you're a tech enthusiast or working on exciting projects related to AI, I would love to connect and collaborate! Feel free to reach out to me via LinkedIn ↗ or email.
 
 Thank you for visiting my GitHub profile. Let's embark on an exciting journey of AI exploration together! 🤖
