@@ -7,6 +7,6 @@ Programming: Proficient in Python, I am well-versed in libraries such as TensorF
 Machine Learning: I have hands-on experience with various machine learning algorithms and deep learning techniques.
 
 ### 📫 Let's Connect!
-If you're a tech enthusiast or working on exciting projects related to AI, I would love to connect and collaborate! Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/doaa-salah-215a7a209) or email me at doaa.salah0365@gmail.com.
+If you're a tech enthusiast or working on exciting projects related to AI, I would love to connect and collaborate! Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/doaa-salah-215a7a209) or [email me](doaa.salah0365@gmail.com).
 
 Thank you for visiting my GitHub profile. Let's embark on an exciting journey of AI exploration together! 🤖
